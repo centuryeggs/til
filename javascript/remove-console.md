@@ -1,6 +1,6 @@
 # remove console
 
-Using a babel plugin to remove the `console.log` from production build. I using vue-cli 3.
+Using a babel plugin to remove the `console.log` from production build. (PS: I using vue-cli 3.)
 
 Step 1: install the plugin
 ```
